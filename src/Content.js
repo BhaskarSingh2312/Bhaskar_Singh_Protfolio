@@ -14,11 +14,11 @@ import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
 import services_logo3 from "./assets/images/Services/logo3.png";
 
-import project1 from "./assets/images/projects/image1.jpg";
-import project2 from "./assets/images/projects/Screenshot 2025-02-22 214042.png";
-import project3 from "./assets/images/projects/image2.jpg";
-import project4 from "./assets/images/projects/Screenshot 2025-02-22 220948.png";
-import project5 from "./assets/images/projects/image3.jpeg";
+import project1 from "./assets/images/Projects/image1.jpg";
+import project2 from "./assets/images/Projects/Screenshot 2025-02-22 214042.png";
+import project3 from "./assets/images/Projects/image2.jpg";
+import project4 from "./assets/images/Projects/Screenshot 2025-02-22 220948.png";
+import project5 from "./assets/images/Projects/image3.jpeg";
 // import person_project from "./assets/images/projects/person.png";
 
 import avatar1 from "./assets/images/Certificate/avtar1.png";
