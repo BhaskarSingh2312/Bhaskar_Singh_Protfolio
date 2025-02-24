@@ -14,7 +14,7 @@ const Projects = () => {
   const { Projects } = content;
   return (
     <section className="bg-bg_light_primary " id="projects">
-      <div className="md:container px-5 pt-14 min-h-screen ">
+      <div className="md:container px-5 pt-14 md:min-h-screen xs:h-full">
       <div>
       <h2 className="title" data-aos="fade-down">
           {Projects.title}
