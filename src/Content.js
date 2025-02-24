@@ -245,28 +245,28 @@ Education:{
           "“Developer and Technology Job Simulation”",
         img: avatar1,
         name: "ACCENTURE",
-        link: "public/certificates/Accenture Certificate.pdf",
+        link: "/certificates/Accenture Certificate.pdf",
       },
       {
         review:
           "“Technology Software Development Job Simulation”",
         img: avatar2,
         name: "CITI",
-        link: "public/certificates/Citi-Bhaskar.pdf",
+        link: "/certificates/Citi-Bhaskar.pdf",
       },
       {
         review:
           "“Certificate of Completion in Success Mindset”",
         img: avatar3,
         name: "HP LIFE",
-        link: "public/certificates/certificate.pdf",
+        link: "/certificates/certificate.pdf",
       },
       {
         review:
           "“Certificate of Participation in Codium Intern Quiz Round-1”",
         img: avatar4,
         name: "UNSTOP",
-        link: "public/certificates/b6ea3ddb-2053-4cfe-8c78-794c992207ad (1).pdf",
+        link: "/certificates/b6ea3ddb-2053-4cfe-8c78-794c992207ad (1).pdf",
       },
     ],
   },

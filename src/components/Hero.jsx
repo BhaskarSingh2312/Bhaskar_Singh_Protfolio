@@ -25,7 +25,7 @@ const Hero = () => {
             <br/>Front and Back End operations.</p>
           <br/>
           <div className="flex justify-end">
-          <a href="public/Bhaskar Singh Web Developer.pdf" download="Bhaskar_Singh_Resume.pdf"><button className='btn cursor-pointer uppercase bg-white px-4 py-2 active:translate-x-0.5 active:translate-y-0.5 hover:shadow-[0.5rem_0.5rem_#F44336,-0.5rem_-0.5rem_#00BCD4] transition'>{hero.btnText}</button></a>
+          <a href="/Bhaskar Singh Web Developer.pdf" download="Bhaskar_Singh_Resume.pdf"><button className='btn cursor-pointer uppercase bg-white px-4 py-2 active:translate-x-0.5 active:translate-y-0.5 hover:shadow-[0.5rem_0.5rem_#F44336,-0.5rem_-0.5rem_#00BCD4] transition'>{hero.btnText}</button></a>
           </div>
           
           <div className="flex flex-col gap-10 mt-10">
