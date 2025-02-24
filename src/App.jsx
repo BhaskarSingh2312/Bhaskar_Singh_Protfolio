@@ -12,7 +12,8 @@ import Navbar from "./Layouts/Navbar";
 import Education from "./components/Education/Education";
 import Certificate from "./components/Certificate";
 import ContactUs from "./components/ContactUs";
-import Hero from "./components/hero";
+import Hero from "./components/Hero";
+
 
 const App = () => {
   useEffect(() => {
